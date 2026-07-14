@@ -15,7 +15,7 @@ I lead digital SaaS B2B products end to end — from discovery to delivery — w
 
 ## Experience
 
-**Nunsys** — PM & Builder, Product Innovation · *Sep 2025 – Present*
+**Nunsys** — PM & Builder, Product Innovation · *Present*
 Drive the product innovation area: spot new opportunities and build AI-powered products to validate them fast, from idea to working prototype.
 
 **Minderest** — Lead Product Manager · *Jul 2020 – Sep 2025*
