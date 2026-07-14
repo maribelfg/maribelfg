@@ -3,6 +3,8 @@
 **PM & Builder** · Product Innovation · SaaS B2B · AI-powered products · UX & Product Design background
 📍 Valencia, Spain · [LinkedIn](https://linkedin.com/in/maribel-fernandez) · fernandez.gallardo.maribel@gmail.com
 
+📄 [View CV](https://claude.ai/code/artifact/e51bf37d-77bb-42fd-9b0a-207d01c1759f) · [Download CV (PDF)](https://github.com/maribelfg/maribelfg/raw/main/cv/Maribel_Fernandez_CV.pdf)
+
 I lead digital SaaS B2B products end to end — from discovery to delivery — with a design-driven, data-informed approach. 5+ years turning ambiguous business problems into products people actually want to use, and building the team culture that makes that repeatable.
 
 ## What I do
