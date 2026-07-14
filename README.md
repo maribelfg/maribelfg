@@ -37,7 +37,6 @@ Managed major retail accounts (Carrefour, El Corte Inglés, Ahorramás); owned m
 | Project | What it is |
 |---|---|
 | **[Pruddy](https://pruddy.org)** | End-to-end product copilot connecting Discovery → Delivery → Tracking (OKRs, insights, opportunities, tickets, impact) |
-| **[Vínculo](https://cheatmealsistas-beep.github.io/vincula2/)** | A web app-game for couples that turns difficult conversations into shared micro-moments of care |
 | **[Modulary](https://www.modulary.app)** | No-code platform for educators, coaches and therapists to package courses and content into a branded client portal |
 | **[Mediterránea Gospel Singers](https://mediterraneagospel.vercel.app/es)** | Website for a gospel choir performing at events and celebrations |
 | **[Product Beers Valencia](https://productbeers.es)** | Community site for Valencia's product community — co-organize events, talks and workshops (Vibe Coding & Automation) |
