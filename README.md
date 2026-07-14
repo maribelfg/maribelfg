@@ -15,7 +15,7 @@ I lead digital SaaS B2B products end to end — from discovery to delivery — w
 
 ## Experience
 
-**Nunsys** — PM & Builder, Product Innovation · *Sep 2025 – Present*
+**Nunsys** — PM & Builder, Product Innovation · *Present*
 Drive the product innovation area: spot new opportunities and build AI-powered products to validate them fast, from idea to working prototype.
 
 **Minderest** — Lead Product Manager · *Jul 2020 – Sep 2025*
@@ -43,6 +43,8 @@ Managed major retail accounts (Carrefour, El Corte Inglés, Ahorramás); owned m
 
 ## Education & Certifications
 
+- Foundingproductengineer.com - AI Agents (2026)
+- Foundingproductengineer.com - Software architecture (2025)
 - The Hero Camp — Digital Product Manager Advanced (2024)
 - The Hero Camp — Product Discovery (2023)
 - Nocodehackers — Product Marketing Camp (2021)
