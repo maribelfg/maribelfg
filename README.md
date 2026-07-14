@@ -43,6 +43,8 @@ Managed major retail accounts (Carrefour, El Corte Inglés, Ahorramás); owned m
 
 ## Education & Certifications
 
+- Foundingproductengineer.com - AI Agents (2026)
+- Foundingproductengineer.com - Software architecture (2025)
 - The Hero Camp — Digital Product Manager Advanced (2024)
 - The Hero Camp — Product Discovery (2023)
 - Nocodehackers — Product Marketing Camp (2021)
