@@ -1,3 +1,5 @@
+<img src="assets/maribel.png" alt="Maribel Fernández" width="140" align="right" style="border-radius:50%">
+
 # Hi, I'm Maribel 👋
 
 **PM & Builder** · Product Innovation · SaaS B2B · AI-powered products · UX & Product Design background
