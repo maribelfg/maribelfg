@@ -32,6 +32,11 @@ Coordinate Product Management training programs. Previously Teacher Assistant (M
 **Mercaimpex SL** — Key Account Manager · *May 2013 – Jun 2018*
 Managed major retail accounts (Carrefour, El Corte Inglés, Ahorramás); owned marketing and product image for in-house brands.
 
+## Open source
+
+### 🌱 [Sprout](https://github.com/maribelfg/sprout)
+AI agents that walk raw user feedback through Teresa Torres' *Continuous Discovery Habits* pipeline — fragments → insight → opportunity → solutions → scored & ranked. Extracted from the Discovery engine I built for Pruddy, MIT licensed, five agents you can use independently.
+
 ## Featured projects
 
 | Project | What it is |
